@@ -1,5 +1,3 @@
-# howudoin-messaging-app
-This repository was created for the Mobile Application Development course at Sabancı University. It includes the implementation of a messaging application named Howudoin, designed to function like popular chat platforms such as WhatsApp.
 # Howudoin Project 📱💬
 
 Howudoin is a mobile messaging application inspired by WhatsApp, designed to provide features like user registration, friend management, group creation, and real-time messaging. The project is divided into two phases: **Phase I (Backend)** and **Phase II (Frontend)**. 
