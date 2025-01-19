@@ -8,13 +8,13 @@ Howudoin is a mobile messaging application inspired by WhatsApp, designed to pro
 
 ## 📋 Project Overview
 
-### Phase I: Backend (Deadline: November 21st, 2024)
+### Phase I: Backend 
 - Built using **Spring Boot**.
 - Handles user authentication, friend management, group messaging, and real-time messaging.
 - Utilizes **MongoDB** for flexible document-based data storage.
 - Secures endpoints with **JWT-based authentication**.
 
-### Phase II: Frontend (Deadline: December 27th, 2024)
+### Phase II: Frontend 
 - Developed with **React Native**.
 - Provides a simple and intuitive user interface.
 - Supports both **iOS** and **Android** platforms.
@@ -99,7 +99,7 @@ Navigate to Friend Details or Group Details.
 Real-time Messaging and History Retrieval.
 
 
-Happy Coding! 💻✨
+### Happy Coding! 💻✨
 
 
 
